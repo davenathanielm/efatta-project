@@ -13,6 +13,8 @@ export const DropDownMenu = () => {
 const DropDownLarge = () => {
   // Ensure this component returns some JSX
   return (
-    <div><p>ini tampilan large</p></div>
+    <div>
+      {/* <p>ini tampilan large</p> */}
+    </div>
   );
 };
